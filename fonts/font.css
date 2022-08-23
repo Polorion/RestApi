@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Travels";
+  src: url("TTTravels-Medium.eot");
+  src: local("TT Travels Medium"), local("TTTravels-Medium"),
+    url("TTTravels-Medium.eot?#iefix") format("embedded-opentype"),
+    url("TTTravels-Medium.woff2") format("woff2"),
+    url("TTTravels-Medium.woff") format("woff"),
+    url("TTTravels-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Travels";
+  src: url("TTTravels-Regular.eot");
+  src: local("TT Travels Regular"), local("TTTravels-Regular"),
+    url("TTTravels-Regular.eot?#iefix") format("embedded-opentype"),
+    url("TTTravels-Regular.woff2") format("woff2"),
+    url("TTTravels-Regular.woff") format("woff"),
+    url("TTTravels-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
