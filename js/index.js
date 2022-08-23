@@ -1,6 +1,5 @@
 import createCard from "./createCard.js";
-import setPointerCoordinates from "./createPoiner.js";
-setPointerCoordinates();
+import setPointerCoordinates from "./setPointerCoordinates.js";
 
 const getData = async () => {
   try {
@@ -28,3 +27,4 @@ const start = (list) => {
     );
   });
 };
+setPointerCoordinates();

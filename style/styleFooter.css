@@ -8,6 +8,10 @@ footer {
   display: flex;
   margin-bottom: 50px;
 }
+
+.footerTop__right img {
+  height: 100%;
+}
 .footerTop__left {
   padding-top: 58px;
   color: var(--white);
@@ -42,11 +46,11 @@ footer {
   display: flex;
 }
 .footerBottom__item {
-  width: 100px;
+  width: 70px;
   text-align: center;
   cursor: pointer;
   transition: all 0.5s ease;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .footerBottom__list:after {
@@ -60,7 +64,7 @@ footer {
 .pointer {
   position: relative;
   top: -5px;
-  left: 60px;
+  left: 0;
   height: 10px;
   width: 20px;
   background-color: var(--white);
