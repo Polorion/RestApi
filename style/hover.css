@@ -1,5 +1,5 @@
 .card__body:hover {
-  background-color: var(--ligthblue);
+  box-shadow: 27px 30px 15px rgb(0 0 0 / 12%);
   transform: translate(-5px, -5px);
 }
 
